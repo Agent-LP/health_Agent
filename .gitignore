@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Vectorstore
+vectorstore/
+*.pkl
+*.pickle
+
+# Documentos (opcional - descomenta si no quieres subir los docs)
+# docs/*.pdf
+# docs/*.txt
+# docs/*.md
+# docs/*.docx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
+
+
